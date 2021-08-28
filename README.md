@@ -9,3 +9,15 @@
 ## Comandos
 Executar o projeto:
 >mvn spring-boot:run
+
+## Conceitos de programação reativa
+- Responsividade
+- Resiliência
+- Elasticidade 
+- Orientado à mensagens
+
+## API Reativa Java 9 - Flow
+- Publisher
+- Subscriber
+- Subscription
+- Processor (Publisher + Subscriber)
