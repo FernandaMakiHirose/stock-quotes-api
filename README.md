@@ -6,6 +6,11 @@
 - Dependências: Spring Boot DevTools, Lombok, Spring Web, Rest Repositories HAL Explorer, H2 Database, Spring Data JPA e `commons-math3` (adicionado manualmente)
 - Spring Boot 2.3.4 
 
+## Requisitos
+- IDE
+- Java 
+- Maven
+
 ## Comandos
 Executar o projeto:
 >mvn spring-boot:run
@@ -21,8 +26,3 @@ Executar o projeto:
 - Subscriber
 - Subscription
 - Processor (Publisher + Subscriber)
-
-## Sobre a Autora
-Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Fernanda_Maki_Hirose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)](https://www.linkedin.com/in/fernanda-maki-hirose-801117208/)  [![Gmail Badge](https://img.shields.io/badge/-femahi2020@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:femahi2020@gmail.com)](mailto:femahi2020@gmail.com)
