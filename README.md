@@ -11,6 +11,9 @@
 - Java 
 - Maven
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Executar o projeto:
 >mvn spring-boot:run
